@@ -28,5 +28,5 @@
 
 <br/>
 
-⭐️ From [AVS1508](https://github.com/Dileepa-Bandara)
+⭐️ From [Dileepa Bandara](https://github.com/Dileepa-Bandara)
       
