@@ -2,6 +2,6 @@
 
 <a href="https://github.com/Dileepa-Bandara" background-color="white" padding="10px">
   <img align="left" alt="Dileepa's Github" width="35px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-5.png" />
-</a>
+</a><br/>
 
 ### I am Dileepa Lakmina Bandara
