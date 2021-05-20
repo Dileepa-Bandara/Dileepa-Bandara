@@ -11,8 +11,9 @@
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-- 💻 &nbsp; 
-      ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)  
-      ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-      ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=C%2B%2B&logoColor=00557C)
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![JavaScipt](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=R&logoColor=274DC3)
       
