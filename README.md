@@ -5,3 +5,7 @@
 </a><br/>
 
 ### I am Dileepa Lakmina Bandara
+- A Full-Stack Developer & Open Source enthusiast.
+- A Information Systems Undergraduate Student(University of Colombo School of Computing).  
+- Currently working on some of my cool side projects based on Web Development.
+- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
