@@ -29,10 +29,14 @@
 
   </a>
  <br/>
-    <br/>
+ <br/>
+ <a href="https://github.com/Dileepa-Bandara">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dileepa-Bandara&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dileepa-Bandara&theme=buefy&layout=compact" />
+</a>
    
-      <br/>
-<br/>
+     
+  <br/>
 
 ⭐️ From [Dileepa Bandara](https://github.com/Dileepa-Bandara)
       
